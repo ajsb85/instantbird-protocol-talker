@@ -1,4 +1,4 @@
-instantbird-addon-Talker
+Instantbird-AddOn-Talker
 ========================
 
 This project acts as a XMPP (Jabber) to Talker bridge, so that you can connect to Talker with your Instantbird.

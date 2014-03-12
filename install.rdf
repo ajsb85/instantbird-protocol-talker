@@ -11,13 +11,13 @@
 		<em:iconURL>chrome://prpl-talker/skin/icon48.png</em:iconURL>
 		<em:icon64URL>chrome://prpl-talker/skin/icon64.png</em:icon64URL>
 		<em:localized>
-		  <Description>
-			<em:locale>en-US</em:locale>
-			<em:name>Talker Protocol</em:name>
-			<em:creator>Alexander Salas</em:creator>
-			<em:translator>Fatma Youssef</em:translator>
-			<em:description>Assists to setup a chat account for Talker.</em:description>
-		  </Description>
+			<Description>
+				<em:locale>en-US</em:locale>
+				<em:name>Talker Protocol</em:name>
+				<em:creator>Alexander Salas</em:creator>
+				<em:translator>Fatma Youssef</em:translator>
+				<em:description>Assists to setup a chat account for Talker.</em:description>
+			</Description>
 		</em:localized>
 		<em:targetApplication>
 			<Description>

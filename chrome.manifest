@@ -1,0 +1,7 @@
+component {b42e7960-a996-11e3-a5e2-0800200c9a66} components/talker.js
+contract @instantbird.org/purple/talker;1 {b42e7960-a996-11e3-a5e2-0800200c9a66}
+category im-protocol-plugin prpl-talker @instantbird.org/purple/talker;1
+
+skin prpl-talker     classic/1.0 chrome/skin/
+
+locale prpl-talker en-US chrome/locale/en-US/
